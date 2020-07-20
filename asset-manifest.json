@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card-app/static/css/main.e410e593.chunk.css",
+    "main.js": "/card-app/static/js/main.358c64e7.chunk.js",
+    "main.js.map": "/card-app/static/js/main.358c64e7.chunk.js.map",
+    "runtime-main.js": "/card-app/static/js/runtime-main.d35341a5.js",
+    "runtime-main.js.map": "/card-app/static/js/runtime-main.d35341a5.js.map",
+    "static/js/2.9ea00ab2.chunk.js": "/card-app/static/js/2.9ea00ab2.chunk.js",
+    "static/js/2.9ea00ab2.chunk.js.map": "/card-app/static/js/2.9ea00ab2.chunk.js.map",
+    "index.html": "/card-app/index.html",
+    "precache-manifest.6c4aab1b41ea110cab604d453c2d9d1d.js": "/card-app/precache-manifest.6c4aab1b41ea110cab604d453c2d9d1d.js",
+    "service-worker.js": "/card-app/service-worker.js",
+    "static/css/main.e410e593.chunk.css.map": "/card-app/static/css/main.e410e593.chunk.css.map",
+    "static/js/2.9ea00ab2.chunk.js.LICENSE.txt": "/card-app/static/js/2.9ea00ab2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d35341a5.js",
+    "static/js/2.9ea00ab2.chunk.js",
+    "static/css/main.e410e593.chunk.css",
+    "static/js/main.358c64e7.chunk.js"
+  ]
+}
