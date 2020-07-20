@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body{
+  background-color: powderblue;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1{
+    letter-spacing: 3px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
+    font-family: 'Jost', sans-serif;
+}
